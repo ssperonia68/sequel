@@ -1,1 +1,1 @@
-add logs
+Faster batch same_shapes (#8851)
