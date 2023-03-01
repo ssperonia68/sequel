@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
