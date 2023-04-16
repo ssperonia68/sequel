@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
