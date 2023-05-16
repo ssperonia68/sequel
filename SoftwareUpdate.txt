@@ -1,1 +1,1 @@
-fix predict with class filter
+Update H1 in Explorer API docs (#7813)
