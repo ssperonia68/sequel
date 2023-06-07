@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Fix ONNX GPU inference bug (#6840)
