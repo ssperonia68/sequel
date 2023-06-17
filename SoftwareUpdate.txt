@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
