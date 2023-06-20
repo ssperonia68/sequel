@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Fix cmake requirements for ARM64 (#8589)
