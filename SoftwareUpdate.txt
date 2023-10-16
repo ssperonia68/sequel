@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
