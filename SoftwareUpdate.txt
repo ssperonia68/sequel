@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add Weights & Biases Docs integrations page (#7199)
