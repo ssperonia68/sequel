@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
