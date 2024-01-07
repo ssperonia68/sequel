@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Fix PIL show() and save() (#8202)
