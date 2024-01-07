@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Tracker: clean up GMC (#8003)
