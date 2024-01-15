@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Bounding Box to OBB conversion (#7572)
