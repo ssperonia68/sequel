@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
