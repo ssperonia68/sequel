@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+fix yolo classify model loading error (#9196)
