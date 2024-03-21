@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
