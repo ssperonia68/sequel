@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
