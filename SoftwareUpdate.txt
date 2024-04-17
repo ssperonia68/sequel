@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Rename model_id to model.id (#8447)
