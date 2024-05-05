@@ -1,1 +1,1 @@
-example Google Colab
+Docs updates and improvements (#8183)
