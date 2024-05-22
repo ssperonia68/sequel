@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
