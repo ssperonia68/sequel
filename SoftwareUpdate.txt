@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Elaborate Train and Predict mode docs arguments (#8137)
