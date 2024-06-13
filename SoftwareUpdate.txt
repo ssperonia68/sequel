@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Cleanup Docs languages (#7865)
