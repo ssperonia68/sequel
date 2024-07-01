@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Feature: Create HUB Models from CLI or Python Script (#7316)
