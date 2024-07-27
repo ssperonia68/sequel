@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Optimize function calls to method calls (#8507)
