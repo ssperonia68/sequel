@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Fix TFLite INT8 for OBB (#7989)
