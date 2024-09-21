@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update format.yml to pull_request_target (#7460)
